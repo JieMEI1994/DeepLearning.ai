@@ -11,7 +11,7 @@
                 
     * [x] week 4
               
-      [Building your Deep Neural Network](https://github.com/JieMEI1994/DeepLearning.ai/blob/master/010401%20-%20Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
+    * [Building your Deep Neural Network](https://github.com/JieMEI1994/DeepLearning.ai/blob/master/010401%20-%20Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
                 
       [Deep Neural Network - Application](https://github.com/JieMEI1994/DeepLearning.ai/blob/master/010402%20-%20Deep%20Neural%20Network%20-%20Application.ipynb)
                 
@@ -19,11 +19,11 @@
   
       * [x] week 1 
     
-      [Initialization](https://github.com/JieMEI1994/DeepLearning.ai/blob/master/020101%20-%20Initialization.ipynb)
+      * [Initialization](https://github.com/JieMEI1994/DeepLearning.ai/blob/master/020101%20-%20Initialization.ipynb)
       
-      [Regularization](https://github.com/JieMEI1994/DeepLearning.ai/blob/master/020102%20-%20Regularization.ipynb)
+      * [Regularization](https://github.com/JieMEI1994/DeepLearning.ai/blob/master/020102%20-%20Regularization.ipynb)
       
-      [Gradient Checking](https://github.com/JieMEI1994/DeepLearning.ai/blob/master/020103%20-%20Gradient%20Checking.ipynb)
+      * [Gradient Checking](https://github.com/JieMEI1994/DeepLearning.ai/blob/master/020103%20-%20Gradient%20Checking.ipynb)
                 
     * [x] week 2
               
